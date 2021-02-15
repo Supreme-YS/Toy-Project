@@ -40,3 +40,32 @@ nav {
     background-color: orange;
     overflow: hidden /* 영역 넘치면 감춤 */
 }
+
+/* 콘텐츠 영역 */
+#contents {
+    width: 100%;    /* 너비 */
+    height: 300px;  /* 높이 */
+}
+
+/* 탭 메뉴 영역 */
+#tabMenu {
+    float: left;  /* 왼쪽으로 플로팅 */
+    width: 600px; /* 너비 */
+    height: 100%; /* 높이 */
+    background-color: violet;
+}
+
+/* 퀵 링크 영역 */
+#links {
+    float: right; /* 오른쪽으로 플로팅 */
+    width: 600px; /* 너비 */
+    height: 100%; /* 높이 */
+    background-color: skyblue;
+}
+
+/* 푸터 영역 */
+footer {
+    width: 100%; /* 너비 */
+    height: 100px; /* 높이 */
+    background-color: gray;
+}
