@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e80c5eb4-a49d-4782-9ab5-eb46b6a8cad6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pygame_project/1_frame_background_stage_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/2_weapon_keyevent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/3_ball_movement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/4_collision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/balloon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/balloon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/balloon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/balloon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/character.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/stage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame_project/images/weapon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame_project/5_ball_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygame_project/6_gameover.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame_basic/ddong_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_basic/ddong_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_project/images/4_collision.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_project/4_collision.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,52 +45,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dudtj\Desktop\Toy-Project\pygame_project" />
       <recent name="C:\Users\dudtj\Desktop\Toy-Project\pygame_project\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_ball_movement">
-    <configuration name="1_frame_background_stage_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Toy-Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_project/1_frame_background_stage_character.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_weapon_keyevent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Toy-Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_project/2_weapon_keyevent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6_gameover">
     <configuration name="3_ball_movement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Toy-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_collision (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Toy-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_basic/7_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_project/4_collision.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ddong_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_collision" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Toy-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +100,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project/images" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_basic/ddong_game.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dudtj\Desktop\Toy-Project\pygame_project\4_collision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_ball_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Toy-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_project/5_ball_division.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_gameover" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Toy-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_project/6_gameover.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_gameover" />
+        <item itemvalue="Python.5_ball_division" />
+        <item itemvalue="Python.4_collision" />
+        <item itemvalue="Python.4_collision (1)" />
         <item itemvalue="Python.3_ball_movement" />
-        <item itemvalue="Python.2_weapon_keyevent" />
-        <item itemvalue="Python.1_frame_background_stage_character" />
-        <item itemvalue="Python.ddong_game" />
-        <item itemvalue="Python.7_text" />
       </list>
     </recent_temporary>
   </component>
