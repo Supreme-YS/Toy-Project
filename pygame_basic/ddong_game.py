@@ -13,8 +13,6 @@ pygame.display.set_caption("Nado Game")
 clock = pygame.time.Clock()
 #######################################################################################################
 
-
-
 #######################################################################################################
 # 1. 사용자 게임 초기화 ( 배경 화면, 게임 이미지, 좌표, 속도, 폰트 등)
 background = pygame.image.load("C:\\Users\\dudtj\\Desktop\\Toy-Project\\pygame_basic\\background.png")
