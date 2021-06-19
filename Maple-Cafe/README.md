@@ -4,5 +4,5 @@
 
 ##### Order / Orderdetail / Menu / Staff / Chart  총 5개 페이지로 구성
 
-Django 프레임워크 활용
+Django 프레임워크
 
